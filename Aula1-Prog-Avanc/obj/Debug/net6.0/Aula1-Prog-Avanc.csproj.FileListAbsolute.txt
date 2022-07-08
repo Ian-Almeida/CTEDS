@@ -1,0 +1,15 @@
+C:\Users\brasi\OneDrive\Documentos\Trabalhos\CTEDS\Aula1-Prog-Avanc\bin\Debug\net6.0\Aula1-Prog-Avanc.exe
+C:\Users\brasi\OneDrive\Documentos\Trabalhos\CTEDS\Aula1-Prog-Avanc\bin\Debug\net6.0\Aula1-Prog-Avanc.deps.json
+C:\Users\brasi\OneDrive\Documentos\Trabalhos\CTEDS\Aula1-Prog-Avanc\bin\Debug\net6.0\Aula1-Prog-Avanc.runtimeconfig.json
+C:\Users\brasi\OneDrive\Documentos\Trabalhos\CTEDS\Aula1-Prog-Avanc\bin\Debug\net6.0\Aula1-Prog-Avanc.dll
+C:\Users\brasi\OneDrive\Documentos\Trabalhos\CTEDS\Aula1-Prog-Avanc\bin\Debug\net6.0\Aula1-Prog-Avanc.pdb
+C:\Users\brasi\OneDrive\Documentos\Trabalhos\CTEDS\Aula1-Prog-Avanc\obj\Debug\net6.0\Aula1-Prog-Avanc.csproj.AssemblyReference.cache
+C:\Users\brasi\OneDrive\Documentos\Trabalhos\CTEDS\Aula1-Prog-Avanc\obj\Debug\net6.0\Aula1-Prog-Avanc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brasi\OneDrive\Documentos\Trabalhos\CTEDS\Aula1-Prog-Avanc\obj\Debug\net6.0\Aula1-Prog-Avanc.AssemblyInfoInputs.cache
+C:\Users\brasi\OneDrive\Documentos\Trabalhos\CTEDS\Aula1-Prog-Avanc\obj\Debug\net6.0\Aula1-Prog-Avanc.AssemblyInfo.cs
+C:\Users\brasi\OneDrive\Documentos\Trabalhos\CTEDS\Aula1-Prog-Avanc\obj\Debug\net6.0\Aula1-Prog-Avanc.csproj.CoreCompileInputs.cache
+C:\Users\brasi\OneDrive\Documentos\Trabalhos\CTEDS\Aula1-Prog-Avanc\obj\Debug\net6.0\Aula1-Prog-Avanc.dll
+C:\Users\brasi\OneDrive\Documentos\Trabalhos\CTEDS\Aula1-Prog-Avanc\obj\Debug\net6.0\refint\Aula1-Prog-Avanc.dll
+C:\Users\brasi\OneDrive\Documentos\Trabalhos\CTEDS\Aula1-Prog-Avanc\obj\Debug\net6.0\Aula1-Prog-Avanc.pdb
+C:\Users\brasi\OneDrive\Documentos\Trabalhos\CTEDS\Aula1-Prog-Avanc\obj\Debug\net6.0\Aula1-Prog-Avanc.genruntimeconfig.cache
+C:\Users\brasi\OneDrive\Documentos\Trabalhos\CTEDS\Aula1-Prog-Avanc\obj\Debug\net6.0\ref\Aula1-Prog-Avanc.dll
